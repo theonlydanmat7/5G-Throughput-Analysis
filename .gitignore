@@ -1,0 +1,23 @@
+# Large data files
+5G_Measurements_Raw_Dataset/
+*.csv
+*.dat
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# OS files
+.DS_Store
+Thumbs.db
